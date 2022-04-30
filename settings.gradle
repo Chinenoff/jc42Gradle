@@ -1,0 +1,5 @@
+rootProject.name = 'jc42Gradle'
+include 'db'
+include 'api'
+include 'service'
+
